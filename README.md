@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-kakoune)
 
 # singularity-kakoune
-<img src="http://kakoune.org/img/screenshots/screenshot-tmux.gif" width="50%" />
+<img src="http://kakoune.org/img/screenshots/screenshot-tmux.gif" width="100%" />
 
 Singularity recipe for [kakoune](http://kakoune.org).
 
